@@ -1,6 +1,15 @@
 # PHHCRSP
 Repository containing source code for the routing and assignment heuristic developed for my Bachelor thesis.
 
+## Running a model
+To run either model, place in a folder:
+|-Instances (folder with instances)
+|-executable (.exe)
+|-config_files (folder with .txt configuration files, with command line such as the ones specified below)
+|-launcher.bat (modify name of executable before launching)
+
+Once the model is run, place all out2 files in a folder together with outputscript.py, then run outputscript.py.
+
 ## Routing model
 Source code
 
